@@ -8,4 +8,4 @@ El objetivo es aprender paso a paso, desde cero, cómo:
 - Leer frames y entender su estructura
 
 De momento, solo estamos preparando el proyecto.
-``
+
